@@ -2,84 +2,31 @@
   "name": "ZigWangles Videogame Repo",
   "identifier": "zigwangles.repo",
   "iconURL": "https://cdn1.realmzer.xyz//IMG_6072-Gf.PNG",
-  "website": "https://discord.gg/hUK5m9MGFc",
+  "website": "https://zigwangles.xyz",
   "subtitle": "Soon to be the largest collection of cracked and hacked games for iOS",
   "description": "Repository for hacked and cracked iOS games. ✅ = working, ❌ = not working.",
   "tintColor": "000000",
   "featuredApps": [
-    "dummyapp",
-    "com.gliddd4.realmzer.mysign"
+    "com.camila314.icreate"
   ],
   "apps": [
     {
       "beta": false,
-      "name": "✅ iCreate Pro",
-      "bundleIdentifier": "com.gliddd4.realmzer.mysign",
-      "developerName": "camila314",
-      "subtitle": "Initial release for MySign. 1.0",
+      "name": "✅ iCreate Pro Cracked",
+      "bundleIdentifier": "com.camila314.icreate",
+      "developerName": "camila314 (iCreate Pro) and Daisuke (iCreate Pro crack)",
+      "subtitle": "Version 6.6.0 of the Geometry Dash iOS Mod Menu",
       "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash.",
       "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash.",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_1376-p1.png",
-      "tintColor": "#326B8B",
+      "tintColor": "#FFFF00",
       "category": "games",
       "version": "6.6.0",
-      "versionDate": "2024-2-6",
-      "downloadURL": "https://cdn1.realmzer.xyz/My_Sign-5h.ipa",
-      "size": 2860000,
+      "versionDate": "2025-2-6",
+      "downloadURL": "https://cdn1.realmzer.xyz//Icreate_Pro_6_6_1_Daisuke_Crack-Ex.ipa",
+      "size": 155135110,
       "title": "iCreate Pro",
-      "url": "https://discord.gg/hUK5m9MGFc"
-    },
-    {
-      "beta": true,
-      "name": "✅ TrollTrollStore",
-      "bundleIdentifier": "com.opa334.Trollstore",
-      "developerName": "opa334",
-      "subtitle": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore",
-      "description": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore\nStatus: ✅🔥",
-      "localizedDescription": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz/IMG_4095-FQ.jpeg",
-      "tintColor": "#00BFFE",
-      "category": "utilities",
-      "version": "2.1",
-      "versionDate": "2025-02-03",
-      "downloadURL": "https://cdn1.realmzer.xyz/Troll_Troll_Store_My_Sign-Ra.ipa",
-      "size": 3470000,
-      "title": "TrollTrollStore",
-      "url": "https://discord.gg/hUK5m9MGFc"
-    },
-    {
-      "name": "✅ YTLite Full",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/b1/e8/5cb1e895-95b4-3e92-d215-e98b1b21ec4b/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
-      "version": "20.05.4",
-      "size": 113014829,
-      "downloadURL": "https://repo.sultanmods.fyi/355244b7-2659-4812-83ae-7d5c467d15d9/Youtube20.05.4YTLite5.1FullFeb3rdMoe.ipa",
-      "localizedDescription": "YouTube 20.05.4 YTLite 5.1 Full Feb 2nd (turn off vp9 if you have a 15 pro or above)\n https://t.me/SultanModsiOS",
-      "versionDate": "2025-02-02"
-    },
-    {
-      "name": "Classic BHTwitter+",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/29/ce/db29ce93-44b8-deb4-75ea-1c3f8e7027a2/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "version": "10.79.1",
-      "size": 145580851,
-      "downloadURL": "https://repo.sultanmods.fyi/de9a464b-9899-4b75-b1b4-86e00fe7632c/Classic_BHTwitter+_10.79.1_Jacks_Apps_Yellow.ipa",
-      "localizedDescription": "Classic BHTwitter+ 10.79.1",
-      "versionDate": "2025-02-05"
+      "url": "https://discord.gg/dKDa5NgXKF"
     },
   ],
-  "news": [
-    {
-      "title": "Thanks for using my personal repository",
-      "identifier": "joinourdcserver",
-      "caption": "If you're interested in my projects, you can join my server by clicking this.",
-      "date": "2025-01-28",
-      "tintColor": "#326B8B",
-      "imageURL": "https://cdn1.realmzer.xyz/IMG_4153-UV.png",
-      "url": "https://discord.gg/hUK5m9MGFc",
-      "notify": true
-    }
-  ]
 }
