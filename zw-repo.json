@@ -1,11 +1,11 @@
 {
-  "name": "Gliddd4 Repo",
-  "identifier": "gliddd4.repo",
-  "iconURL": "https://cdn1.realmzer.xyz/Untitled_Artwork-w6.png",
+  "name": "zig wangles Videogame Repo",
+  "identifier": "zigwangles.repo",
+  "iconURL": "https://cdn1.realmzer.xyz//IMG_6072-Gf.PNG",
   "website": "https://discord.gg/hUK5m9MGFc",
-  "subtitle": "Repository for @gliddd4's apps",
-  "description": "Repository for @gliddd4 projects and compiled social media tweaks. ✅ = working, ❌ = not working.",
-  "tintColor": "D3D5D4",
+  "subtitle": "Soon to be the largest collection of cracked and hacked games for iOS",
+  "description": "Repository for hacked and cracked iOS games. ✅ = working, ❌ = not working.",
+  "tintColor": "000000",
   "featuredApps": [
     "dummyapp",
     "com.gliddd4.realmzer.mysign"
