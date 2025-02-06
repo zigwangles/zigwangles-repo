@@ -1,0 +1,40 @@
+{
+    "name": "ZW Repository",
+    "indetifier": "com.zigwangles.repository",
+    "iconURL": "https://cdn1.realmzer.xyz//IMG_6072-Gf.PNG",
+    "website": "https://zigwangles.xyz",
+    "subtitle": "repository subtitle",
+    "description": "repo description",
+    "tintColor": "000000",
+    "featuredApps": [
+        "bundle indetifiers you want"
+    ],
+
+    "apps":[
+        {
+            "beta": true,
+            "name": "app name",
+            "bundleIdentifer": "unique bundle id",
+            "developerName": "app dev",
+            "subtitle": "app subtitle",
+            "description": "app description",
+            "localizedDescription": "description duplicate",
+            "iconURL": "app icon url",
+            "tintColor": "app tint color",
+            "version": "app version",
+            "versionDate": "date added to repo",
+            "downloadURL": "app download URL",
+            "size": "app size in bites",
+            "title": "app name",
+            "url": "app dev url",
+            "versions" : [
+                {
+                    "version":"app version",
+                    "date": "date added to repo",
+                    "downloadURL": "app download URL",
+                    "size": "app size in bites"
+                }
+            ]
+        }
+    ]
+}
