@@ -3,7 +3,6 @@
   "identifier": "repository.zigwangles.xyz",
   "iconURL": "https://link.storjshare.io/raw/jxgbh6b4p6snte6thlhjjb7pt6ia/repo/repo%20icon/IMG_1454.jpeg",
   "website": "https://pirating.xyz",
-  "patreonURL": "https://www.patreon.com/c/Realmzer",
   "subtitle": "pirating.xyz Repository",
   "description": "An all in one, constantly updating, iOS repository (previously Realmzer's iOS Repository).\n\nStatus Legend:\n✅ = Working/Functional\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown Source\n🔵 = TrollStore/CoreTrust only\n🐞 = Uses Exploit\n💸 = Paid, not Cracked\n🔥 = Recommended by maintainer\n🌟= Premium features unlocked and cracked",
   "tintColor": "A020F0",
@@ -28,7 +27,7 @@
       "category": "entertainment",
       "version": "8.1",
       "versionDate" : "2024-11-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
+      "downloadURL": "https://link.storjshare.io/raw/jxq6qfhloszjtls32uvmxehlyxka/repo/ipa/Post_Box_0_8_1_beta-Im.ipa",
       "size": 8503296,
       "title": "Postbox",
       "url": "https://www.postbox.news/",
@@ -36,7 +35,7 @@
         {
           "version": "8.1",
           "date" : "2024-11-25",
-          "downloadURL": "https://cdn1.realmzer.xyz//Post_Box_0_8_1_beta-Im.ipa",
+          "downloadURL": "https://link.storjshare.io/raw/jwpzy5apoaxgtberf5bp2z64w4cq/repo/ipa/Post_Box_0_8_1_beta-Im.ipa",
           "size": 8503296
         }
       ]
@@ -54,7 +53,7 @@
       "category": "utilities",
       "version" : "0.1-36b1380",
       "versionDate" : "2025-01-16",
-      "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-Au.ipa",
+      "downloadURL": "https://link.storjshare.io/raw/jwzixypihsqfr7yu3thd2jjkx6pq/repo/ipa/com_kdt_sparsebox_0_0_1-Au.ipa",
       "size": 7278547,
       "title": "Sparsebox",
       "url": "https://github.com/khanhduytran0/SparseBox",
@@ -62,26 +61,8 @@
         {
           "version" : "0.1-36b1380",
           "date" : "2025-01-16",
-          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-Au.ipa",
+          "downloadURL": "https://link.storjshare.io/raw/jwzixypihsqfr7yu3thd2jjkx6pq/repo/ipa/com_kdt_sparsebox_0_0_1-Au.ipa",
           "size": 7278547
-        },
-        {
-          "version" : "0.1-2940d11",
-          "date" : "2024-11-30",
-          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1-7T.ipa",
-          "size": 7274496
-        },
-        {
-          "version" : "0.1-1ff1702",
-          "date" : "2024-11-19",
-          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1_11_19_2024-V8.ipa",
-          "size": 7274496
-        },
-        {
-          "version" : "Unknown",
-          "date" : "2024-10-29",
-          "downloadURL": "https://cdn1.realmzer.xyz//com_kdt_sparsebox_0_0_1_1-9K.ipa",
-          "size": 7237632
         }
       ]
     },
@@ -98,7 +79,7 @@
       "category": "utilities",
       "version": "6.0.2",
       "versionDate" : "2024-11-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
+      "downloadURL": "https://link.storjshare.io/raw/jusluui53t2oxxmep3l2hy55yhyq/repo/ipa/Pure_KFD-ZN.ipa",
       "size": 11000000,
       "title": "PureKFD",
       "url": "https://github.com/Lrdsnow/PureKFD",
@@ -106,7 +87,7 @@
         {
           "version": "6.0.2",
           "date" : "2024-11-29",
-          "downloadURL": "https://cdn1.realmzer.xyz//Pure_KFD-ZN.ipa",
+          "downloadURL": "https://link.storjshare.io/raw/jusluui53t2oxxmep3l2hy55yhyq/repo/ipa/Pure_KFD-ZN.ipa",
           "size": 11000000
         }
       ]
@@ -124,14 +105,14 @@
       "category": "utilities",
       "version": "1.5",
       "versionDate" : "2024-12-24",
-      "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+      "downloadURL": "https://link.storjshare.io/raw/jxfzh7alzszt2pddynqw2pedhlba/repo/ipa/Simple_KFD-AO.ipa",
       "size": 2879488,
       "title": "SimpleKFD",
       "versions" : [
         {
           "version": "1.5",
           "date" : "2024-12-24",
-          "downloadURL": "https://cdn1.realmzer.xyz//Simple_KFD-AO.ipa",
+          "downloadURL": "https://link.storjshare.io/raw/jxfzh7alzszt2pddynqw2pedhlba/repo/ipa/Simple_KFD-AO.ipa",
           "size": 2879488
         }
       ]
