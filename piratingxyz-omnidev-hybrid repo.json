@@ -1,0 +1,1207 @@
+{
+  "name": "pirating.xyz repository",
+  "identifier": "repository.zigwangles.xyz",
+  "iconURL": "https://link.storjshare.io/raw/jxgbh6b4p6snte6thlhjjb7pt6ia/repo/repo%20icon/IMG_1454.jpeg",
+  "website": "https://pirating.xyz",
+  "subtitle": "pirating.xyz Repository",
+  "description": "An all in one, constantly updating, iOS repository (previously Realmzer's iOS Repository).\n\nStatus Legend:\n✅ = Working/Functional\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown Source\n🔵 = TrollStore/CoreTrust only\n🐞 = Uses Exploit\n💸 = Paid, not Cracked\n🔥 = Recommended by maintainer\n🌟= Premium features unlocked and cracked",
+  "tintColor": "A020F0",
+  "featuredApps": [
+    "com.google.ios.youtubetweak",
+    "com.spotify.client",
+    "com.kdt.sparsebox",
+    "com.kdt.livecontainer"
+  ],
+  "apps": [
+    {
+      "beta": false,
+      "name": "Sora",
+      "bundleIdentifier": "me.cranci.sulfur",
+      "developerName": "Sora Dev Team",
+      "subtitle": "Sora - An iOS and macOS modular web scraping app",
+      "description": "An iOS and macOS modular web scraping app\nStatus: ✅",
+      "localizedDescription": "Stream movies, shows, etc. via web scraping and custom modules.\nStatus: ✅",
+      "iconURL": "https://link.storjshare.io/raw/ju3tdzuaamnshmia2p6vh43pn6xq/repo/app%20icon/sora-icon.jpg",
+      "tintColor": "000000",
+      "category": "entertainment",
+      "version": "0.2.1",
+      "versionDate": "2025-3-29",
+      "downloadURL": "https://link.storjshare.io/raw/jwg3owk7a6fjqm3ivhj3xhfpuyeq/repo/ipa/Sora.ipa",
+      "size": 9588000,
+      "title": "Sora",
+      "url": "https://github.com/cranci1/Sora",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "date": "2025-3-29",
+          "downloadURL": "https://link.storjshare.io/raw/jwg3owk7a6fjqm3ivhj3xhfpuyeq/repo/ipa/Sora.ipa",
+          "size": 9588000
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "Postbox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "developerName": "Postbox Team",
+      "subtitle": "Postbox - Get the latest jailbreak news and more",
+      "description": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
+      "localizedDescription": "Jailbreak news, Jailbreak setups, and Jailbreak repos all in one place.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/app_Icon_Site-KH.png",
+      "tintColor": "000000",
+      "category": "entertainment",
+      "version": "8.1",
+      "versionDate": "2024-11-25",
+      "downloadURL": "https://link.storjshare.io/raw/jxq6qfhloszjtls32uvmxehlyxka/repo/ipa/Post_Box_0_8_1_beta-Im.ipa",
+      "size": 8503296,
+      "title": "Postbox",
+      "url": "https://www.postbox.news/",
+      "versions": [
+        {
+          "version": "8.1",
+          "date": "2024-11-25",
+          "downloadURL": "https://link.storjshare.io/raw/jwpzy5apoaxgtberf5bp2z64w4cq/repo/ipa/Post_Box_0_8_1_beta-Im.ipa",
+          "size": 8503296
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "Sparsebox",
+      "bundleIdentifier": "com.kdt.sparsebox",
+      "developerName": "khanhduytran0",
+      "subtitle": "Sparsebox - 3 app limit bypass",
+      "description": "Tutorial: bit.ly/sparsebox\n\nFeatures\nBypass SideStore/AltStore 3 app limit\nAction Button\nAlways on Display (18.0+)\nApple Intelligence\nCamera button (18.0rc+)\nCharge limit\nDynamic Island\nStage Manager\nStatus: ✅🔥🐞",
+      "localizedDescription": "Tutorial: bit.ly/sparsebox\n\nBypass SideStore/AltStore 3 app limit\nAction Button\nAlways on Display (18.0+)\nApple Intelligence\nCamera button (18.0rc+)\nCharge limit\nDynamic Island\nStage Manager\nStatus: ✅🔥🐞",
+      "iconURL": "https://cdn.omnidev.org/file-PW.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "0.1-36b1380",
+      "versionDate": "2025-01-16",
+      "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_1_36b1380-Au.ipa",
+      "size": 7278547,
+      "title": "Sparsebox",
+      "url": "https://github.com/khanhduytran0/SparseBox",
+      "versions": [
+        {
+          "version": "0.1-36b1380",
+          "date": "2025-01-16",
+          "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_1_36b1380-Au.ipa",
+          "size": 7278547
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PureKFD",
+      "bundleIdentifier": "uwu.lrdsnow.purekfd",
+      "developerName": "lrdsnow",
+      "subtitle": "PureKFD - on device customization",
+      "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥🐞",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🔥🐞",
+      "iconURL": "https://cdn.omnidev.org/IMG_4462-bC.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "6.0.2",
+      "versionDate": "2024-11-29",
+      "downloadURL": "https://cdn.omnidev.org/Pure_KFD_6_0_2-ZN.ipa",
+      "size": 11000000,
+      "title": "PureKFD",
+      "url": "https://github.com/Lrdsnow/PureKFD",
+      "versions": [
+        {
+          "version": "6.0.2",
+          "date": "2024-11-29",
+          "downloadURL": "https://cdn.omnidev.org/Pure_KFD_6_0_2-ZN.ipa",
+          "size": 11000000
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "SimpleKFD",
+      "bundleIdentifier": "com.lrdsnow.test",
+      "developerName": "lrdsnow",
+      "subtitle": "KFD Tweaks for iOS 15.0-15.7.6 arm64e\n&\narm64 and iOS 16.0-16.5 & 16.6b1 arm64e",
+      "description": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅🐞",
+      "localizedDescription": "Simple KFD Tweaks using the KFD Exploit.\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/icon_7-YD.png",
+      "tintColor": "6f00ba",
+      "category": "utilities",
+      "version": "1.5",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn.omnidev.org/Simple_KFD_1_5-AO.ipa",
+      "size": 2879488,
+      "title": "SimpleKFD",
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn.omnidev.org/Simple_KFD_1_5-AO.ipa",
+          "size": 2879488
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Nugget",
+      "bundleIdentifier": "com.leemin.nugget",
+      "developerName": "leminlimez",
+      "subtitle": "Nugget - on device customization",
+      "description": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🐞",
+      "localizedDescription": "On device customization tool for iOS 16.0 to iOS 17.7, iOS 18.0 to iOS 18.1 beta 4, partial support on beta 5 & 6, a computer is needed for app setup\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/nugget-nD.png",
+      "tintColor": "9a2bff",
+      "category": "utilities",
+      "version": "2.0.1",
+      "versionDate": "2024-12-01",
+      "downloadURL": "https://cdn.omnidev.org/Nugget_2_0_1-Be.ipa",
+      "size": 7680000,
+      "title": "Nugget",
+      "url": "https://github.com/leminlimez/Nugget-Mobile",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2024-12-01",
+          "downloadURL": "https://cdn.omnidev.org/Nugget_2_0_1-Be.ipa",
+          "size": 7680000
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "mikotoX",
+      "bundleIdentifier": "com.straight-tamago.mikotoX",
+      "developerName": "straight-tamago & little_34306",
+      "subtitle": "The Ultimate Customization Tool (iOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3)",
+      "description": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\niOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3\nStatus: ✅🐞",
+      "localizedDescription": "TrollRestore brings numerous customization features to iOS devices, allowing you to tweak your system for a more personalized experience. Use at your own risk, as there is a high risk of bootlooping. Make sure to backup your phone before use!\niOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/369179724_fa574df5_3baf_40ee_904f_5086f3ad2e8e-8i.png",
+      "tintColor": "13101f",
+      "category": "utilities",
+      "version": "1.3",
+      "versionDate": "2024-12-23",
+      "downloadURL": "https://cdn.omnidev.org/com_straight_tamago_mikoto_X_1_3-dW.ipa",
+      "size": 7901184,
+      "title": "mikotoX",
+      "url": "https://github.com/straight-tamago/mikotoX",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-12-23",
+          "downloadURL": "https://cdn.omnidev.org/com_straight_tamago_mikoto_X_1_3-dW.ipa",
+          "size": 7901184
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "ResSet16",
+      "bundleIdentifier": "net.sourceloc.ResSet16",
+      "developerName": "sourcelocation, BomberFish & Avangelista",
+      "subtitle": "Set screen resolution on iOS 15.0 - iOS 16.1.2 to anything you like!",
+      "description": "Set screen resolution on iOS 16.1.2 to whichever you want\nStatus: ✅🐞",
+      "localizedDescription": "Set screen resolution on iOS 16.1.2 to whichever you want\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/resset16-F9.png",
+      "tintColor": "ffae28",
+      "category": "utilities",
+      "version": "1.1.3",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Res_Set16_1_1_3_16_1_2-Wl.ipa",
+      "size": 758470,
+      "title": "ResSet16",
+      "url": "https://github.com/sourcelocation/ResSet16",
+      "versions": [
+        {
+          "version": "1.1.3",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Res_Set16_1_1_3_16_1_2-Wl.ipa",
+          "size": 758470
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "DirtyJIT",
+      "bundleIdentifier": "org.haxi0.DirtyJIT",
+      "developerName": "haxi0",
+      "subtitle": "App that abuses the MDC vulnerability to enable JIT on supported apps.",
+      "description": "App that abuses the MDC vulnerability to enable JIT on supported apps. Please follow the in-app instructions!\nStatus: ✅🐞",
+      "localizedDescription": "App that abuses the MDC vulnerability to enable JIT on supported apps. Please follow the in-app instructions!\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/Dirty_JIT-bv.png",
+      "tintColor": "0084ff",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Dirty_JIT_1_1-QZ.ipa",
+      "size": 676637,
+      "title": "DirtyJIT",
+      "url": "https://github.com/haxi0/DirtyJIT",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Dirty_JIT_1_1-QZ.ipa",
+          "size": 676637
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "KillMyOTA",
+      "bundleIdentifier": "org.haxi0.KillMyOTA",
+      "developerName": "haxi0",
+      "subtitle": "OTA Killer for iOS 15.0 - 16.1.2",
+      "description": "Block OTA updates on iOS 15.0 - 16.1.2\nStatus: ✅🐞",
+      "localizedDescription": "Block OTA updates on iOS 15.0 - 16.1.2\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/ios_marketing-3O.png",
+      "tintColor": "ffb300",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Kill_My_OTA_1_1-lP.ipa",
+      "size": 339440,
+      "title": "KillMyOTA",
+      "url": "https://github.com/haxi0/KillMyOTA",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Kill_My_OTA_1_1-lP.ipa",
+          "size": 339440
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "VanishBar",
+      "bundleIdentifier": "org.haxi0.VanishBar",
+      "developerName": "haxi0 & sourcelocation",
+      "subtitle": "Make your Status Bar go bye-bye!",
+      "description": "Makes your status bar invisable.\niOS 15.5 - 16.1.2, no TrollStore or Jailbreak.\nStatus: ✅🐞",
+      "localizedDescription": "Makes your status bar invisable.\niOS 15.5 - 16.1.2, no TrollStore or Jailbreak.\nStatus: ✅🐞",
+      "iconURL": "https://cdn.omnidev.org/Vanish_Bar-WZ.png",
+      "tintColor": "716fe6",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Vanish_Bar_1_1-dB.ipa",
+      "size": 529744,
+      "title": "VanishBar",
+      "url": "https://github.com/haxi0/VanishBar/blob/main/VanishBar/",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Vanish_Bar_1_1-dB.ipa",
+          "size": 529744
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName": "alfiecg24",
+      "subtitle": "TrollInstallerX - Permasigner installer (no app limit, no dns, no 7 day refresh)",
+      "description": "https://ios.cfw.guide/installing-trollstore\n\nTrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
+      "localizedDescription": "https://ios.cfw.guide/installing-trollstore/\n\nTrollStore installer for iOS 14.0–15.1.1\nA9+ on 15.2–16.6.1\nA10 on 17.0 beta 1–4.\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/l_Qt6_Wq_H-q7.png",
+      "tintColor": "377ee8",
+      "category": "utilities",
+      "version": "1.0.3",
+      "versionDate": "2024-11-25",
+      "downloadURL": "https://cdn.omnidev.org/Troll_Installer_X_1_0_3-Qn.ipa",
+      "size": 6889472,
+      "title": "TrollInstallerX",
+      "url": "https://github.com/alfiecg24/TrollInstallerX",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2024-11-25",
+          "downloadURL": "https://cdn.omnidev.org/Troll_Installer_X_1_0_3-Qn.ipa",
+          "size": 6889472
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "TrollStar",
+      "bundleIdentifier": "com.34306.trollforce",
+      "developerName": "Huy Nguyen",
+      "subtitle": "TrollStore installer for iOS 16.0 - iOS 16.6.1 on arm64e",
+      "description": "This is a TrollStore installer using the KFD & kfund exploit supporting iOS 16.0 - 16.6.1 on arm64e\nStatus: ✅",
+      "localizedDescription": "This is a TrollStore installer using the KFD & kfund exploit supporting iOS 16.0 - 16.6.1 on arm64e\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/anya-Cr.png",
+      "tintColor": "f1c9c2",
+      "category": "utilities",
+      "version": "1.2",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn.omnidev.org/Troll_Star_1_2-Te.ipa",
+      "size": 1155072,
+      "title": "TrollStar",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn.omnidev.org/Troll_Star_1_2-Te.ipa",
+          "size": 1155072
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "AppleGotTrolled",
+      "bundleIdentifier": "com.mudsplasher.AppleGotTrolled",
+      "developerName": "MudSplasher",
+      "subtitle": "TrollStore Installation method for iOS 17.0",
+      "description": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "localizedDescription": "This tool for CVE-2022-46689 & TrollStore un-blacklists enterprise certificate signed apps.\nStatus: ✅🔵",
+      "iconURL": "https://cdn.omnidev.org/IMG_0076-H1.png",
+      "tintColor": "9c9c9c",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate": "2024-12-23",
+      "downloadURL": "https://cdn.omnidev.org/Apple_Got_Trolled_1_0-u3.ipa",
+      "size": 40960,
+      "title": "AppleGotTrolled",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-12-23",
+          "downloadURL": "https://cdn.omnidev.org/Apple_Got_Trolled_1_0-u3.ipa",
+          "size": 40960
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "TrollTrollStore",
+      "bundleIdentifier": "com.opa334.Trollstore",
+      "developerName": "opa334",
+      "subtitle": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore",
+      "description": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: ✅🔥",
+      "localizedDescription": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/IMG_4095-FQ.jpeg",
+      "tintColor": "00BFFE",
+      "category": "utilities",
+      "version": "2.1",
+      "versionDate": "2024-12-13",
+      "downloadURL": "https://cdn.omnidev.org/Troll_Troll_Store_My_Sign_2_1-Ra.ipa",
+      "size": 3470000,
+      "title": "TrollTrollStore",
+      "url": "https://discord.gg/hUK5m9MGFc"
+    },
+    {
+      "beta": false,
+      "name": "NathanLR",
+      "bundleIdentifier": "com.nathan.nathanlr",
+      "developerName": "Nathan",
+      "subtitle": "Semi Jailbreak for iOS 16.5.1 to iOS 16.6.1",
+      "description": "https://ios.cfw.guide/installing-nathanlr/\n\nSemi Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-nathanlr/\n\nJailbreak for iOS 16.5.1 to iOS 16.6.1, A12+\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/IMG_4469-Th.jpeg",
+      "tintColor": "7EC865",
+      "category": "utilities",
+      "version": "1.1.4",
+      "versionDate": "2024-12-20",
+      "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+      "size": 40330000,
+      "title": "NathanLR",
+      "url": "https://ios.cfw.guide/installing-nathanlr/",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "date": "2024-12-20",
+          "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+          "size": 40330000
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334",
+      "subtitle": "Jailbreak for iOS 16.0 to iOS 16.5.1",
+      "description": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper\n\nJailbreak for iOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper\n\niOS 15 to iOS 16.5\nA14 and older support iOS 15 to iOS 16.5.1\nA11 and older support iOS 15 to iOS 16.6.1\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/67ffxs_D-po.png",
+      "tintColor": "acccd2",
+      "category": "utilities",
+      "version": "2.2.2",
+      "versionDate": "2024-11-25",
+      "downloadURL": "https://cdn.omnidev.org/Dopamine_2_2_2-ZL.ipa",
+      "size": 49696768,
+      "title": "Dopamine",
+      "url": "https://ios.cfw.guide/installing-dopamine/#installing-persistence-helper",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "date": "2024-11-25",
+          "downloadURL": "https://cdn.omnidev.org/Dopamine_2_2_2-ZL.ipa",
+          "size": 49696768
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Taurine",
+      "bundleIdentifier": "com.coolstar.taurine",
+      "developerName": "Odyssey Team",
+      "subtitle": "Jailbreak for iOS 14.0 to iOS 14.8.1.",
+      "description": "https://ios.cfw.guide/installing-taurine/\n\nJailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-taurine/\n\nJailbreak for iOS 14.0 to iOS 14.8.1\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/images_5_1-Ig.png",
+      "tintColor": "d25171",
+      "category": "utilities",
+      "version": "1.1.7-3",
+      "versionDate": "2024-11-25",
+      "downloadURL": "https://cdn.omnidev.org/Taurine_1_1_7_3-jL.ipa",
+      "size": 32247808,
+      "title": "Taurine",
+      "url": "https://ios.cfw.guide/installing-taurine/",
+      "versions": [
+        {
+          "version": "1.1.70-3",
+          "date": "2024-11-25",
+          "downloadURL": "https://cdn.omnidev.org/Taurine_1_1_7_3-jL.ipa",
+          "size": 32247808
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey Team",
+      "subtitle": "Jailbreak for iOS 13.0 to iOS 13.7.",
+      "description": "https://ios.cfw.guide/installing-odyssey/\n\nJailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-odyssey/\n\nJailbreak for iOS 13.0 to iOS 13.7\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/IMG_4248-N4.png",
+      "tintColor": "f5896f",
+      "category": "utilities",
+      "version": "1.4.3",
+      "versionDate": "2024-11-30",
+      "downloadURL": "https://cdn.omnidev.org/Odyssey_1_4_3-HY.ipa",
+      "size": 25940000,
+      "title": "Odyssey",
+      "url": "https://theodyssey.dev"
+    },
+    {
+      "beta": false,
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd",
+      "subtitle": "Jailbreak for iOS 11.0 to 14.8",
+      "description": "https://ios.cfw.guide/installing-unc0ver/\n\nJailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
+      "localizedDescription": "https://ios.cfw.guide/installing-unc0ver/\n\nJailbreak for iOS 11.0 to iOS 14.8, excluding 12.5.6 and 12.5.7\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/Icon_App_60x60_3x-Lv.png",
+      "tintColor": "292929",
+      "category": "utilities",
+      "version": "8.0.2",
+      "versionDate": "2024-11-25",
+      "downloadURL": "https://cdn.omnidev.org/unc0ver_Release_8_0_2-sI.ipa",
+      "size": 54493184,
+      "title": "unc0ver",
+      "url": "https://github.com/pwn20wndstuff/Undecimus",
+      "versions": [
+        {
+          "version": "8.0.2",
+          "date": "2024-11-25",
+          "downloadURL": "https://cdn.omnidev.org/unc0ver_Release_8_0_2-sI.ipa",
+          "size": 54493184
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "nekoJB",
+      "bundleIdentifier": "xyz.pythonplayer123.nekojb",
+      "developerName": "HAHALOSAH",
+      "subtitle": "Semi-untethered jailbreak for arm64 devices running iOS 15.0 - iOS 15.8.2",
+      "description": "Semi-untethered jailbreak for arm64 devices running iOS 15.0 - iOS 15.8.2\nStatus: ✅",
+      "localizedDescription": "Semi-untethered jailbreak for arm64 devices running iOS 15.0 - iOS 15.8.2\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/neko_JB_1-fA.png",
+      "tintColor": "591eb8",
+      "category": "utilities",
+      "version": "0.1.0-beta5",
+      "versionDate": "2024-12-23",
+      "downloadURL": "https://cdn.omnidev.org/nekojb_0_1_0_beta5-gy.ipa",
+      "size": 7667712,
+      "title": "nekoJB",
+      "url": "https://nekojb.com/",
+      "versions": [
+        {
+          "version": "0.1.0-beta5",
+          "date": "2024-12-23",
+          "downloadURL": "https://cdn.omnidev.org/nekojb_0_1_0_beta5-gy.ipa",
+          "size": 7667712
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Def1nit3lyN0tAJa1lbr3akTool",
+      "bundleIdentifier": "com.xiao.Def1nit3lyN0tAJa1lbr3akTool",
+      "developerName": "KpwnZ",
+      "subtitle": "A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1",
+      "description": "A jailbreak tool for iOS 16.0 to iOS 16.6.1. I built it just for fun.\nThis could not have been possible without kfd, kfund, Dopamine and the jailbreak community.\nStatus: ✅",
+      "localizedDescription": "A jailbreak tool for iOS 16.0 to iOS 16.6.1. I built it just for fun.\nThis could not have been possible without kfd, kfund, Dopamine and the jailbreak community.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/IMG_0076-H1.png",
+      "tintColor": "aeaeae",
+      "category": "utilities",
+      "version": "1.0.1",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn.omnidev.org/Def1nit3ly_N0t_A_Ja1lbr3ak_Tool_1_0_1-lT.ipa",
+      "size": 67567616,
+      "title": "Def1nit3lyN0tAJa1lbr3akTool",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn.omnidev.org/Def1nit3ly_N0t_A_Ja1lbr3ak_Tool_1_0_1-lT.ipa",
+          "size": 67567616
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Socket",
+      "bundleIdentifier": "com.staturnz.socket",
+      "developerName": "staturnzz",
+      "subtitle": "iOS 10.x Jailbreak for 32bit Devices",
+      "description": "Socket supports all versions of iOS 10, but please note iOS 10.0.2-10.3.2 have not been tested.\nBy default this jailbreak does NOT install Cydia, instead it uses Zebra (v1.1.28)Also note that this jailbreak does NOT destroy sandbox containers, you may have to resign some apps using the container-resign package, which can be found in the base Socket Repo in Zebra (you need to install this to use it).\nThen you can run the command as show below using a terminal or ssh. This only is for iOS 10.3 - 10.3.4.\nStatus: ✅",
+      "localizedDescription": "Socket supports all versions of iOS 10, but please note iOS 10.0.2-10.3.2 have not been tested.\nBy default this jailbreak does NOT install Cydia, instead it uses Zebra (v1.1.28)Also note that this jailbreak does NOT destroy sandbox containers, you may have to resign some apps using the container-resign package, which can be found in the base Socket Repo in Zebra (you need to install this to use it).\nThen you can run the command as show below using a terminal or ssh. This only is for iOS 10.3 - 10.3.4.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/icon_9-U0.png",
+      "tintColor": "cfaae2",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-01-16",
+      "downloadURL": "https://cdn.omnidev.org/socket_1_1-cd.ipa",
+      "size": 38178726,
+      "title": "Socket",
+      "url": "https://socket-jb.app/",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-01-16",
+          "downloadURL": "https://cdn.omnidev.org/socket_1_1-cd.ipa",
+          "size": 38178726
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "sockH3lix",
+      "bundleIdentifier": "com.sxx.sockH3lix",
+      "developerName": "SongXiaoXi",
+      "subtitle": "Jailbreak for iOS 10.x 64bit devices and iPhone5,2(10.3.4) with the sock port exploit in one second",
+      "description": "Jailbreak for iOS 10.x 64bit devices without KTRR in one second.\nJailbreak for iOS 10.3.4 iPhone5,2 in an instant.\nThis should be the best variant of H3lix jailbreak tool.\nReplace the exploit from v0rtex to sock port with higher success rate and shorter time.Kernel patches and other resources are inherited from doubleH3lix.\nOnly test on my 5s (10.3.3) and 5 (10.3.4). \n10.x 64bit KPP devices is supported in theory. Use at your own risk.This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.\nStatus: ✅",
+      "localizedDescription": "Jailbreak for iOS 10.x 64bit devices without KTRR in one second.\nJailbreak for iOS 10.3.4 iPhone5,2 in an instant.\nThis should be the best variant of H3lix jailbreak tool.\nReplace the exploit from v0rtex to sock port with higher success rate and shorter time.Kernel patches and other resources are inherited from doubleH3lix.\nOnly test on my 5s (10.3.3) and 5 (10.3.4). \n10.x 64bit KPP devices is supported in theory. Use at your own risk.This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/icon_1024_3-lh.png",
+      "tintColor": "ff9a02",
+      "category": "utilities",
+      "version": "1.4",
+      "versionDate": "2025-01-16",
+      "downloadURL": "https://cdn.omnidev.org/sock_H3lix_1_4-s2.ipa",
+      "size": 9854198,
+      "title": "sockH3lix",
+      "url": "https://github.com/SongXiaoXi/sockH3lix/",
+      "versions": [
+        {
+          "version": "1.4",
+          "date": "2025-01-16",
+          "downloadURL": "https://cdn.omnidev.org/sock_H3lix_1_4-s2.ipa",
+          "size": 9854198
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "doubleH3lix",
+      "bundleIdentifier": "org.tihmstar.doubleH3lix",
+      "developerName": "tihmstar & siguza",
+      "subtitle": "10.0-10.3.3 Semi-Untethered Jailbreak (A7-A9(X))",
+      "description": "Jailbreak for 64-bit 10.x devices.\nOnly 64-bit devices with headphone jack supported. (A7-A9)\nStatus: ✅",
+      "localizedDescription": "Jailbreak for 64-bit 10.x devices.\nOnly 64-bit devices with headphone jack supported. (A7-A9)\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/App_Icon83_5x83_5_2x_ipad-zo.png",
+      "tintColor": "00c2ef",
+      "category": "utilities",
+      "version": "RC8",
+      "versionDate": "2025-01-16",
+      "downloadURL": "https://cdn.omnidev.org/double_H3lix_RC_8-fk.ipa",
+      "size": 11420713,
+      "title": "doubleH3lix",
+      "url": "https://doubleh3lix.tihmstar.net/",
+      "versions": [
+        {
+          "version": "RC8",
+          "date": "2025-01-16",
+          "downloadURL": "https://cdn.omnidev.org/double_H3lix_RC_8-fk.ipa",
+          "size": 11420713
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "Fugu15",
+      "bundleIdentifier": "de.pinauten.Fugu15",
+      "developerName": "pinauten",
+      "subtitle": "Semi-untethered permasigned jailbreak for iOS 15",
+      "description": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "localizedDescription": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.\nIt contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.\nAdditionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.\nPlease note that Fugu15 does not support tweaks (no tweak injection library).\nStatus: ❌ (Discontinued)",
+      "iconURL": "https://cdn.omnidev.org/1024_5-iA.png",
+      "tintColor": "141257",
+      "category": "utilities",
+      "version": "0.0.1",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn.omnidev.org/Fugu15_0_0_1-gS.tipa",
+      "size": 34668544,
+      "title": "Fugu15",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn.omnidev.org/Fugu15_0_0_1-gS.tipa",
+          "size": 34668544
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Electra",
+      "bundleIdentifier": "org.coolstar.electra1141",
+      "developerName": "CoolStar",
+      "subtitle": "Jailbreak for iOS 11.0-11.4.1",
+      "description": "Electra is a jailbreak for iOS 11.0-11.4.1\nWarning: This is a bit more complex than other jailbreaks.\nStatus: ✅",
+      "localizedDescription": "Electra is a jailbreak for iOS 11.0-11.4.1\nWarning: This is a bit more complex than other jailbreaks.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/p_J9m0_L3-vU.jpg",
+      "tintColor": "455667",
+      "category": "utilities",
+      "version": "2.0",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Electra1141_2_0-4C.ipa",
+      "size": 52200691,
+      "title": "Electra",
+      "url": "https://coolstar.org/electra/",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Electra1141_2_0-4C.ipa",
+          "size": 52200691
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "straight-tamago",
+      "subtitle": "Misaka - iOS & tvOS customisation tool for KFD & MDC",
+      "description": "Misaka lets you customise your phone without a jailbreak.\nStatus: ✅",
+      "localizedDescription": "Misaka lets you customise your phone without a jailbreak.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/3_Ce7_c0d_400x400-aQ.png",
+      "tintColor": "fa86f9",
+      "category": "utilities",
+      "version": "8.2.4",
+      "versionDate": "2024-11-29",
+      "downloadURL": "https://cdn.omnidev.org/misaka_8_2_4-oy.ipa",
+      "size": 30744576,
+      "title": "Misaka",
+      "url": "https://github.com/straight-tamago/misaka",
+      "versions": [
+        {
+          "version": "8.2.4",
+          "date": "2024-11-29",
+          "downloadURL": "https://cdn.omnidev.org/misaka_8_2_4-oy.ipa",
+          "size": 30744576
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "developerName": "leminlimez",
+      "subtitle": "Jailed Toolbox for iOS 14-15.7.1",
+      "description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥 (Discontinued)",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.\nCowabunga MDC has reached its end of life.\nThere will be no more updates and has been archived.\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\nWarning: Some changes are permanent on iOS 14.0-14.8.1\nStatus: ❌🔥 (Discontinued)",
+      "iconURL": "https://cdn.omnidev.org/215552092_9dc1e029_da35_43da_867f_17279e3dc180_4_O-yn.png",
+      "tintColor": "0784fc",
+      "category": "utilities",
+      "version": "10.3.2",
+      "versionDate": "2024-12-06",
+      "downloadURL": "https://cdn.omnidev.org/Cowabunga_10_3_2-Du.ipa",
+      "size": 16289792,
+      "title": "Cowabunga",
+      "url": "https://github.com/leminlimez/Cowabunga",
+      "versions": [
+        {
+          "version": "10.3.2",
+          "date": "2024-12-06",
+          "downloadURL": "https://cdn.omnidev.org/Cowabunga_10_3_2-Du.ipa",
+          "size": 16289792
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Cluckabunga",
+      "bundleIdentifier": "com.leminlimez.Cluckabunga",
+      "developerName": "leminlimez",
+      "subtitle": "KFD Customization Tool for iOS 16.0-16.6b1",
+      "description": "A customization tool using KFD.\nStatus: ❌🔥 (Discontinued)",
+      "localizedDescription": "A customization tool using KFD.\nStatus: ❌🔥 (Discontinued)",
+      "iconURL": "https://cdn.omnidev.org/IMG_2137-2l.png",
+      "tintColor": "afb6c1",
+      "category": "utilities",
+      "version": "2.2.1",
+      "versionDate": "2024-12-24",
+      "downloadURL": "https://cdn.omnidev.org/Cluckabunga_2_2_1-h5.ipa",
+      "size": 8359936,
+      "title": "Cluckabunga",
+      "url": "https://github.com/leminlimez/Cluckabunga",
+      "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2024-12-24",
+          "downloadURL": "https://cdn.omnidev.org/Cluckabunga_2_2_1-h5.ipa",
+          "size": 8359936
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "subtitle": "Run iOS app without actually installing it!",
+      "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "localizedDescription": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/livecontainer-XV.png",
+      "tintColor": "0784fc",
+      "category": "utilities",
+      "version": "3.2.0",
+      "versionDate": "2025-01-16",
+      "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_3_2_0-zQ.ipa",
+      "size": 2962233,
+      "title": "LiveContainer",
+      "url": "https://github.com/khanhduytran0/LiveContainer",
+      "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2025-01-16",
+          "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_3_2_0-zQ.ipa",
+          "size": 2962233
+        },
+        {
+          "version": "3.1.0",
+          "date": "2024-12-16",
+          "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_3_1_0-wH.ipa",
+          "size": 2899968
+        },
+        {
+          "version": "8b6e503",
+          "date": "2024-11-16",
+          "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_8b6e503-Ph.ipa",
+          "size": 921600
+        },
+        {
+          "version": "2.1.2",
+          "date": "2024-10-30",
+          "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_2_1_2-D4.ipa",
+          "size": 194586
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "ESign No Logs",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "u/Sharp_Listen3436 & yyy",
+      "subtitle": "E-Sign no logs - IPA Signer with no telemetry",
+      "description": "The best no PC iOS sideloader\nStatus: ✅",
+      "localizedDescription": "The best no PC iOS sideloader\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/esign-AO.png",
+      "tintColor": "4894ee",
+      "category": "utilities",
+      "version": "5.0.2",
+      "versionDate": "2024-10-11",
+      "downloadURL": "https://cdn.omnidev.org/E_Sign_V5_0_2_No_Logs-SQ.ipa",
+      "size": 7245924,
+      "title": "ESign No Logs",
+      "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/",
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2024-10-11",
+          "downloadURL": "https://cdn.omnidev.org/E_Sign_V5_0_2_No_Logs-SQ.ipa",
+          "size": 7245924
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "MegaGames",
+      "bundleIdentifier": "com.TechGuy541.MegaGames",
+      "developerName": "TechGuy541",
+      "subtitle": "MegaGames - Play Retro Games and more!",
+      "description": "MegaGames is your all in one retro gaming app!\n🎮 Retro Games: Play classics like Snake and Tetris right from your wrist!\n🐍 Snake: Navigate the snake to eat food and grow longer without crashing.\n🟥 Tetris: Fit falling blocks together to clear lines and rack up points.\n👾 Space Destroyer: Blast away enemy ships in this action-packed shooter.\n🏓 Pong: Challenge yourself or a friend in this timeless paddle game.\n🔢 2048: Combine tiles to reach the elusive 2048 tile—simple yet addictive.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+      "localizedDescription": "MegaGames is your all in one retro gaming app!\n🎮 Retro Games: Play classics like Snake and Tetris right from your wrist!\n🐍 Snake: Navigate the snake to eat food and grow longer without crashing.\n🟥 Tetris: Fit falling blocks together to clear lines and rack up points.\n👾 Space Destroyer: Blast away enemy ships in this action-packed shooter.\n🏓 Pong: Challenge yourself or a friend in this timeless paddle game.\n🔢 2048: Combine tiles to reach the elusive 2048 tile—simple yet addictive.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/logo_1-Wt.png",
+      "tintColor": "1788f2",
+      "category": "games",
+      "version": "1.0.0",
+      "versionDate": "2024-11-03",
+      "downloadURL": "https://cdn.omnidev.org/Mega_Games_1_0_0-Y4.ipa",
+      "size": 35600000,
+      "title": "MegaGames",
+      "url": "https://github.com/TechGuy541/MegaGames",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-11-03",
+          "downloadURL": "https://cdn.omnidev.org/Mega_Games_1_0_0-Y4.ipa",
+          "size": 35600000
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "developerName": "RobTop Games AB",
+      "subtitle": "Geometry Dash - Push your skills to the limit",
+      "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/geodash-cz.png",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "2.2.07",
+      "versionDate": "2025-01-15",
+      "downloadURL": "https://cdn.omnidev.org/Geometry_Dash_2_2_07-KT.ipa",
+      "size": 159242804,
+      "title": "Geometry Dash",
+      "url": "https://www.robtopgames.com/",
+      "versions": [
+        {
+          "version": "2.2.07",
+          "date": "2025-01-15",
+          "downloadURL": "https://cdn.omnidev.org/Geometry_Dash_2_2_07-KT.ipa",
+          "size": 159242804
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Geometry Dash v2.2.06",
+      "bundleIdentifier": "com.robtop.geometryjump2206",
+      "developerName": "RobTop Games AB",
+      "subtitle": "Geometry Dash - Push your skills to the limit",
+      "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/geodash-cz.png",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "2.2.06",
+      "versionDate": "2024-10-30",
+      "downloadURL": "https://cdn.omnidev.org/Geometry_Dash_2_2_06-eE.ipa",
+      "size": 152252416,
+      "title": "Geometry Dash v2.2.06",
+      "url": "https://www.robtopgames.com/"
+    },
+    {
+      "beta": false,
+      "name": "iCreatePro",
+      "bundleIdentifier": "com.camila314.icreate",
+      "developerName": "RobTop Games AB & camila314",
+      "subtitle": "ICreatePro - Tweak of Geometry Dash",
+      "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/icreatepro-dD.png",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "6.6.1",
+      "versionDate": "2024-10-30",
+      "downloadURL": "https://cdn.omnidev.org/Icreate_Pro_6_6_1_Crack-Ag.ipa",
+      "size": 155152384,
+      "title": "iCreatePro",
+      "url": "https://icreate.pro/",
+      "versions": [
+        {
+          "version": "6.6.1",
+          "date": "2024-10-30",
+          "downloadURL": "https://cdn.omnidev.org/Icreate_Pro_6_6_1_Crack-Ag.ipa",
+          "size": 155152384
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "iCreatePro v6.6.1",
+      "bundleIdentifier": "com.camila314.icreate661",
+      "developerName": "RobTop Games AB & camila314",
+      "subtitle": "ICreatePro - Tweak of Geometry Dash",
+      "description": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash. With over 40 different mods, this app is a must-have for any iOS Geometry Dash player.\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/icreatepro-dD.png",
+      "tintColor": "ffb304",
+      "category": "games",
+      "version": "6.6.1",
+      "versionDate": "2024-10-30",
+      "downloadURL": "https://cdn.omnidev.org/Icreate_Pro_6_6_1_Crack-Ag.ipa",
+      "size": 155152384,
+      "title": "iCreatePro v6.6.1",
+      "url": "https://icreate.pro/"
+    },
+    {
+      "beta": false,
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Epic Games",
+      "subtitle": "Fall Guys, outside of the EU!",
+      "description": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
+      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-XP.png",
+      "tintColor": "cb0e90",
+      "category": "games",
+      "version": "11.6.0",
+      "versionDate": "2025-02-4",
+      "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
+      "size": 1964947537,
+      "title": "Fall Guys",
+      "versions": [
+        {
+          "version": "11.6.0",
+          "date": "2025-02-4",
+          "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa",
+          "size": 1964947537
+        },
+        {
+          "version": "11.5.0",
+          "date": "2024-12-10",
+          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa",
+          "size": 1964947537
+        },
+        {
+          "version": "11.40.0",
+          "date": "2024-12-07",
+          "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.40.0/Fall.Guys-11.4.0.ipa",
+          "size": 1956483072
+        },
+        {
+          "version": "11.3.0",
+          "date": "2024-10-09",
+          "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa",
+          "size": 195238232
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Microsoft/Mojang",
+      "subtitle": "Minecraft ($7.99) for free!",
+      "description": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
+      "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/Homepage_Gameplay_Trailer_MC_OV_logo_300x300-3H.png",
+      "tintColor": "86d562",
+      "category": "games",
+      "version": "1.21.51",
+      "versionDate": "2024-12-15",
+      "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.51/Minecraft-1.21.51.ipa",
+      "size": 96468992,
+      "title": "Minecraft",
+      "versions": [
+        {
+          "version": "1.21.51",
+          "date": "2024-12-15",
+          "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.51/Minecraft-1.21.51.ipa",
+          "size": 96468992
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "developerName": "Re-Logic",
+      "subtitle": "Action-adventure sandbox",
+      "description": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are as unique as the players themselves!\n\nStatus: ✅🌟",
+      "localizedDescription": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are as unique as the players themselves!\n\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/unnamed_9-xC.png",
+      "tintColor": "1cb253",
+      "category": "games",
+      "version": "4.4.14",
+      "versionDate": "2025-01-31",
+      "downloadURL": "https://cdn.omnidev.org/Terraria_4_4_14_tg_glesign-l0.ipa",
+      "size": 160681857,
+      "title": "Terraria",
+      "versions": [
+        {
+          "version": "4.4.14",
+          "date": "2025-01-31",
+          "downloadURL": "https://cdn.omnidev.org/Terraria_4_4_14_tg_glesign-l0.ipa",
+          "size": 160681857
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "developerName": "Stossy11",
+      "subtitle": "Minecraft Java Edition on iOS by Stossy11!",
+      "description": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅",
+      "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/logo_2-4d.png",
+      "tintColor": "bf9946",
+      "category": "games",
+      "version": "2.2 Deepslate",
+      "versionDate": "2024-12-15",
+      "downloadURL": "https://cdn.omnidev.org/net_kdt_pojavlauncher_2_2_ios_2-63.ipa",
+      "size": 151900000,
+      "title": "PojavLauncher",
+      "versions": [
+        {
+          "version": "2.2 Deepslate",
+          "date": "2024-12-15",
+          "downloadURL": "https://cdn.omnidev.org/net_kdt_pojavlauncher_2_2_ios_2-63.ipa",
+          "size": 151900000
+        }
+      ]
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "subtitle": "Flappy Bird - The classic game returns!",
+      "description": "The classic Flappy Bird game, revived for iOS! Navigate the bird through pipes by tapping the screen.\nStatus: ✅",
+      "localizedDescription": "The classic Flappy Bird game, revived for iOS! Navigate the bird through pipes by tapping the screen.\nStatus: ✅",
+      "iconURL": "https://cdn.omnidev.org/flappybird_icon.png",
+      "tintColor": "ffcc00",
+      "category": "games",
+      "version": "1.0",
+      "versionDate": "2024-11-01",
+      "downloadURL": "https://cdn.omnidev.org/Flappy_Bird_1_0-Br.ipa",
+      "size": 2457600,
+      "title": "Flappy Bird",
+      "url": "https://github.com/brandonplank/flappybird",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-11-01",
+          "downloadURL": "https://cdn.omnidev.org/Flappy_Bird_1_0-Br.ipa",
+          "size": 2457600
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify & Hacked by JulioVerne",
+      "subtitle": "Spotify Premium - Cracked with premium features",
+      "description": "Spotify premium features unlocked!\nStatus: ✅🌟",
+      "localizedDescription": "Spotify premium features unlocked!\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/Spotify_Icon_RGB_Green-Lf.png",
+      "tintColor": "1db954",
+      "category": "entertainment",
+      "version": "8.10.13",
+      "versionDate": "2025-03-15",
+      "downloadURL": "https://cdn.omnidev.org/Spotify_8_10_13_Crack-Jv.ipa",
+      "size": 135168000,
+      "title": "Spotify",
+      "url": "https://github.com/JulioVerne/Spotify",
+      "versions": [
+        {
+          "version": "8.10.13",
+          "date": "2025-03-15",
+          "downloadURL": "https://cdn.omnidev.org/Spotify_8_10_13_Crack-Jv.ipa",
+          "size": 135168000
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtubetweak",
+      "developerName": "Google & Tweaked",
+      "subtitle": "YouTube - Ad-free with premium features",
+      "description": "YouTube with no ads, background playback, and more premium features unlocked.\nStatus: ✅🌟",
+      "localizedDescription": "YouTube with no ads, background playback, and more premium features unlocked.\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/youtube_icon.png",
+      "tintColor": "ff0000",
+      "category": "entertainment",
+      "version": "19.12.3",
+      "versionDate": "2025-03-20",
+      "downloadURL": "https://cdn.omnidev.org/YouTube_19_12_3_Tweak-Yt.ipa",
+      "size": 148275200,
+      "title": "YouTube",
+      "url": "https://github.com/youtubetweak",
+      "versions": [
+        {
+          "version": "19.12.3",
+          "date": "2025-03-20",
+          "downloadURL": "https://cdn.omnidev.org/YouTube_19_12_3_Tweak-Yt.ipa",
+          "size": 148275200
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Netflix",
+      "bundleIdentifier": "com.netflix.Netflix",
+      "developerName": "Netflix, Inc.",
+      "subtitle": "Netflix - Stream movies and TV shows",
+      "description": "Stream your favorite movies and TV shows with Netflix. Note: This is the standard version, not cracked.\nStatus: ✅💸",
+      "localizedDescription": "Stream your favorite movies and TV shows with Netflix. Note: This is the standard version, not cracked.\nStatus: ✅💸",
+      "iconURL": "https://link.storjshare.io/raw/jw5p3r5e42e6s4mgbgjd4vau5xra/repo/app%20icon/netflix-icon.png",
+      "tintColor": "e50914",
+      "category": "entertainment",
+      "version": "16.2.0",
+      "versionDate": "2025-02-10",
+      "downloadURL": "https://link.storjshare.io/raw/jv5e4r5f42e6s4mgbgjd4vau5xra/repo/ipa/Netflix.ipa",
+      "size": 98765432,
+      "title": "Netflix",
+      "url": "https://www.netflix.com",
+      "versions": [
+        {
+          "version": "16.2.0",
+          "date": "2025-02-10",
+          "downloadURL": "https://link.storjshare.io/raw/jv5e4r5f42e6s4mgbgjd4vau5xra/repo/ipa/Netflix.ipa",
+          "size": 98765432
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Inc.",
+      "subtitle": "TikTok - Tweaked with extra features",
+      "description": "TikTok with added features like no ads and download options.\nStatus: ✅🌟",
+      "localizedDescription": "TikTok with added features like no ads and download options.\nStatus: ✅🌟",
+      "iconURL": "https://cdn.omnidev.org/tiktok_icon.png",
+      "tintColor": "00f2ea",
+      "category": "entertainment",
+      "version": "33.5.0",
+      "versionDate": "2025-03-25",
+      "downloadURL": "https://cdn.omnidev.org/TikTok_33_5_0_Tweak-Tt.ipa",
+      "size": 189235200,
+      "title": "TikTok",
+      "url": "https://github.com/tiktok-tweak",
+      "versions": [
+        {
+          "version": "33.5.0",
+          "date": "2025-03-25",
+          "downloadURL": "https://cdn.omnidev.org/TikTok_33_5_0_Tweak-Tt.ipa",
+          "size": 189235200
+        }
+      ]
+    }
+  ]
+}
