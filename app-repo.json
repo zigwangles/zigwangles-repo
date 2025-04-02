@@ -16,6 +16,32 @@
   "apps": [
     {
       "beta": false,
+      "name" : "StikJit",
+      "bundleIdentifier": "com.stik.sj",
+      "developerName" : "0-Blu",
+      "subtitle": "On-device JIT enabler (iOS 17.4+)",
+      "description": "On-device JIT enabler (iOS 17.4+)\nStatus: ✅",
+      "localizedDescription": "New on-device JIT enabler\n- Requires iOS 17.4 or higher\n- Requires StosVPN\n\nTo get StosVPN use this TestFlight link: https://testflight.apple.com/join/hBUbg4ZJ\nAltenatively, if using Feather, refer to the StosVPN tile at the top of the repo.\nStatus: ✅",
+      "iconURL": "https://raw.githubusercontent.com/0-Blu/StikJIT/main/assets/StikJIT_Rounded_Corners.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2025-4-2",
+      "downloadURL": "https://github.com/0-Blu/StikJIT/releases/download/1.1/StikJit_1.1.ipa",
+      "size": 14100000,
+      "title": "StikJit",
+      "url": "https://github.com/0-Blu/StikJIT",
+      "versions" : [
+        {
+          "version": "1.1",
+          "date" : "2025-4-2",
+          "downloadURL": "https://github.com/0-Blu/StikJIT/releases/download/1.1/StikJit_1.1.ipa",
+          "size": 14100000
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "AdBlock dylib",
       "bundleIdentifier": "xyz.pirating.adblock",
       "developerName" : "pirating.xyz Team",
@@ -10263,6 +10289,16 @@
     }
   ],
   "news": [
+    {
+    "title": "StosVPN Download",
+    "identifier": "stos-vpn",
+    "caption": "Click this link to join and download Stos VPN TestFlight - Required for StikJIT to work.",
+    "date": "2025-04-2",
+    "tintColor": "#000000",
+    "imageURL": "https://link.storjshare.io/raw/jxzdyuhmymyguso7lgsnlesfbyqq/repo/app%20icon/testflight-icon.png",
+    "notify": true,
+    "url": "https://testflight.apple.com/join/hBUbg4ZJ"
+    }
     {
     "title": "Join the Discord!",
     "identifier": "discordjoin",
