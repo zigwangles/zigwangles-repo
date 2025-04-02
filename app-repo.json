@@ -16,6 +16,32 @@
   "apps": [
     {
       "beta": false,
+      "name" : "AdBlock dylib",
+      "bundleIdentifier": "xyz.pirating.adblock",
+      "developerName" : "pirating.xyz Team",
+      "subtitle": "AdBlock dylib - inject into sideloaded apps to remove ads",
+      "description": "Inject dylib into sideloaded apps to remove ads\nStatus: ✅",
+      "localizedDescription": "AdBlock dylib used for removing ads in sideloaded apps\nStatus: ✅",
+      "iconURL": "https://link.storjshare.io/raw/jvqs22q6lik5ig7cq3edenblabwa/repo/app%20icon/dylibicon.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2025-4-1",
+      "downloadURL": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
+      "size": 145000,
+      "title": "AdBlocker dylib",
+      "url": "https://discord.gg/kdTrTkhjgE",
+      "versions" : [
+        {
+          "version": "1.0",
+          "date" : "2025-4-1",
+          "downloadURL": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
+          "size": 145000
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Sora",
       "bundleIdentifier": "me.cranci.sulfur",
       "developerName" : "Sora Dev Team",
